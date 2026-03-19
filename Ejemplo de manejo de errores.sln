@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37012.4 d17.14
+VisualStudioVersion = 17.14.37012.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo de manejo de errores", "Ejemplo de manejo de errores\Ejemplo de manejo de errores.csproj", "{D5CC01C1-8C66-4D2B-B5BD-3EAE7751A882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad 16_02", "Actividad 16_02\Actividad 16_02.csproj", "{C4F13F73-0072-4AC7-ACE5-19BDEE723600}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D5CC01C1-8C66-4D2B-B5BD-3EAE7751A882}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5CC01C1-8C66-4D2B-B5BD-3EAE7751A882}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5CC01C1-8C66-4D2B-B5BD-3EAE7751A882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F13F73-0072-4AC7-ACE5-19BDEE723600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F13F73-0072-4AC7-ACE5-19BDEE723600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F13F73-0072-4AC7-ACE5-19BDEE723600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F13F73-0072-4AC7-ACE5-19BDEE723600}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
